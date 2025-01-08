@@ -20,6 +20,10 @@
    color: #474747;
 }
 
+.dark-03{
+   color: #757575;
+}
+
 .btn-primary{
    background-color: #FD6E0A;
    font-weight:bold;
@@ -141,4 +145,36 @@ nav a{
    padding: 30px;
    border-radius: 5px;
    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+   /* resume-section-styles */
+
+.resume-container{
+   display:flex;
+   gap: 24px;
+}   
+
+.experience-sub-title{
+   color: #757575;
+   font-size: 20px;
+   margin-bottom: 20px;
+
+}
+
+.experience-title{
+   font-size: 26x;
+   color: #474747;
+}
+
+.resume-column-title{
+   font-size: 25px;
+   font-weight: bold;
+   color: #474747;
+}
+.resume hr{
+   margin: 30px 5px;
+}
+
+.resume-download-cv{
+   margin-top: 50px;
 }
